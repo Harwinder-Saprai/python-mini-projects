@@ -1,5 +1,5 @@
 # python-mini-projects
 This is my first Git Reository for my python mini projects that i made while learning python programming language.
 <br>
-Author - Harwinder Singh
+Author - Harwinder Singh (IITM BS Student)s
 
